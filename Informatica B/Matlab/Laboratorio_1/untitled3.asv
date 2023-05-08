@@ -1,0 +1,16 @@
+scacchiera = zeros(8,8);
+disp(scacchiera)
+
+r_1 = input("Riga: ");
+c_1 = input("Colonna: ");
+r_2 = input("Riga: ");
+c_2 = input("Colonna: ");
+
+scacchiera(r_1,c_1) = 1;
+scacchiera(r_2,c_2) = 2;
+
+for ii = 1:8
+    righe_ok = sum(scacchiera,2);
+    colonne_ok = sum(scacchiera,1);
+    
+end

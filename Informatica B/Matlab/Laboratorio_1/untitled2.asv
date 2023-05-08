@@ -1,0 +1,21 @@
+clear
+clc
+
+inp= input("Imposta una data nel formato ddmmyyyy: ");
+
+data = str2double(data(:));
+giorno = data(1)* 10 + data(2);
+mese = data(3) * 10 + data(4);
+anno = data(5) * 1000 + data(6) * 100 + data(7) * 10 + data(8)
+
+primavera = ((giorno > 20 && mese >= 3) && (giorno <20 && mese < 6));
+
+disp(data)
+
+if primavera
+    disp("E' nato di primavera")
+else
+    disp("Non e' nato di primavera")
+end
+
+disp (int2str(2022 - anno))

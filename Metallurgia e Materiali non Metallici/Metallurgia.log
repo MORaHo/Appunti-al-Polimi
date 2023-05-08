@@ -1,0 +1,426 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.6)  25 FEB 2023 00:00
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/Matteo/Dropbox/PC/Documents/Roba/VS-Code/Lavoro_Polimi/Metallurgia e Materiali non Metallici/Metallurgia.tex"
+(c:/Users/Matteo/Dropbox/PC/Documents/Roba/VS-Code/Lavoro_Polimi/Metallurgia e Materiali non Metallici/Metallurgia.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-10-26> (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+)) (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+) (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count193
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count194
+\leftroot@=\count195
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count196
+\DOTSCASE@=\count197
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count198
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count199
+\dotsspace@=\muskip16
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
+\tag@help=\toks17
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen148
+\stockheight=\dimen149
+) (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+) (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+) (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+ (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+ (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen152
+\captionmargin=\dimen153
+\caption@leftmargin=\dimen154
+\caption@rightmargin=\dimen155
+\caption@width=\dimen156
+\caption@indent=\dimen157
+\caption@parindent=\dimen158
+\caption@hangindent=\dimen159
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count271
+\c@continuedfloat=\count272
+)
+\c@subfigure=\count273
+\c@subtable=\count274
+) (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count275
+\l__pdf_internal_box=\box53
+) (Metallurgia.aux)
+\openout1 = `Metallurgia.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+ (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count276
+\scratchdimen=\dimen160
+\scratchbox=\box54
+\nofMPsegments=\count277
+\nofMParguments=\count278
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count279
+\MPscratchDim=\dimen161
+\MPnumerator=\count280
+\makeMPintoPDFobject=\count281
+\everyMPtoPDFconversion=\toks23
+) (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\Matteo\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ [1
+
+{C:/Users/Matteo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Metallurgia.toc)
+\tf@toc=\write3
+\openout3 = `Metallurgia.toc'.
+
+ [2] [1]
+Underfull \hbox (badness 10000) in paragraph at lines 65--72
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 79--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--84
+
+ []
+
+
+Overfull \hbox (3.63951pt too wide) in paragraph at lines 86--87
+[]\OT1/cmr/m/n/10 Comportamento iso-topo (as-senza di pror-i-eta' di-rezion-ali [come in ce-ramiche
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--107
+
+ []
+
+[3] [4]
+<figures//Retticolo pre 1800.png, id=28, 663.6795pt x 319.79475pt>
+File: figures//Retticolo pre 1800.png Graphic file (type png)
+<use figures//Retticolo pre 1800.png>
+Package pdftex.def Info: figures//Retticolo pre 1800.png  used on input line 111.
+(pdftex.def)             Requested size: 345.0pt x 166.24054pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
+
+ []
+
+
+Overfull \hbox (1.05615pt too wide) in paragraph at lines 114--117
+\OT1/cmr/m/n/10 La met-al-lur-gia sp-iega le pro-pri-eta' macro-scopiche con la pro-pri-eta' mi-cro-scopiche
+ []
+
+[5 <./figures//Retticolo pre 1800.png>]
+<figures//Reticolo cubico a corpo centrato.png, id=35, 639.5895pt x 222.8325pt>
+File: figures//Reticolo cubico a corpo centrato.png Graphic file (type png)
+<use figures//Reticolo cubico a corpo centrato.png>
+Package pdftex.def Info: figures//Reticolo cubico a corpo centrato.png  used on input line 128.
+(pdftex.def)             Requested size: 345.0pt x 120.20195pt.
+<figures//CCC calcolo.png, id=36, 428.802pt x 390.258pt>
+File: figures//CCC calcolo.png Graphic file (type png)
+<use figures//CCC calcolo.png>
+Package pdftex.def Info: figures//CCC calcolo.png  used on input line 138.
+(pdftex.def)             Requested size: 172.5pt x 156.99365pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--140
+
+ []
+
+[6 <./figures//Reticolo cubico a corpo centrato.png> <./figures//CCC calcolo.png>]
+<figures//Reticolo CFC.png, id=44, 658.25925pt x 254.1495pt>
+File: figures//Reticolo CFC.png Graphic file (type png)
+<use figures//Reticolo CFC.png>
+Package pdftex.def Info: figures//Reticolo CFC.png  used on input line 162.
+(pdftex.def)             Requested size: 345.0pt x 133.20168pt.
+<figures//CFC calcolo.png, id=45, 446.8695pt x 372.1905pt>
+File: figures//CFC calcolo.png Graphic file (type png)
+<use figures//CFC calcolo.png>
+Package pdftex.def Info: figures//CFC calcolo.png  used on input line 174.
+(pdftex.def)             Requested size: 172.5pt x 143.67145pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--176
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--176
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--176
+
+ []
+
+[7 <./figures//Reticolo CFC.png>] [8 <./figures//CFC calcolo.png>]
+<figures//Fasi Ferro.png, id=54, 641.39626pt x 398.08725pt>
+File: figures//Fasi Ferro.png Graphic file (type png)
+<use figures//Fasi Ferro.png>
+Package pdftex.def Info: figures//Fasi Ferro.png  used on input line 199.
+(pdftex.def)             Requested size: 293.2521pt x 182.01076pt.
+<figures//Cambio parametro reticolare nel ferro.png, id=55, 662.475pt x 383.63326pt>
+File: figures//Cambio parametro reticolare nel ferro.png Graphic file (type png)
+<use figures//Cambio parametro reticolare nel ferro.png>
+Package pdftex.def Info: figures//Cambio parametro reticolare nel ferro.png  used on input line 211.
+(pdftex.def)             Requested size: 293.2521pt x 169.8177pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--215
+
+ []
+
+[9 <./figures//Fasi Ferro.png>] [10 <./figures//Cambio parametro reticolare nel ferro.png>]
+<figures//HCP grafico.png, id=64, 299.9205pt x 349.90726pt>
+File: figures//HCP grafico.png Graphic file (type png)
+<use figures//HCP grafico.png>
+Package pdftex.def Info: figures//HCP grafico.png  used on input line 221.
+(pdftex.def)             Requested size: 86.25pt x 100.62157pt.
+<figures//HCP schematica.png, id=65, 558.28575pt x 255.95625pt>
+File: figures//HCP schematica.png Graphic file (type png)
+<use figures//HCP schematica.png>
+Package pdftex.def Info: figures//HCP schematica.png  used on input line 224.
+(pdftex.def)             Requested size: 224.2479pt x 102.81029pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--231
+
+ []
+
+<figures//Vacanze.png, id=66, 304.7385pt x 293.898pt>
+File: figures//Vacanze.png Graphic file (type png)
+<use figures//Vacanze.png>
+Package pdftex.def Info: figures//Vacanze.png  used on input line 245.
+(pdftex.def)             Requested size: 172.5pt x 166.36209pt.
+<figures//Sostituzione.png, id=67, 624.53325pt x 349.305pt>
+File: figures//Sostituzione.png Graphic file (type png)
+<use figures//Sostituzione.png>
+Package pdftex.def Info: figures//Sostituzione.png  used on input line 250.
+(pdftex.def)             Requested size: 293.2521pt x 164.01346pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--256
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--256
+
+ []
+
+[11 <./figures//HCP grafico.png> <./figures//HCP schematica.png>]
+<figures//Interstiziali.png, id=74, 357.13425pt x 407.72325pt>
+File: figures//Interstiziali.png Graphic file (type png)
+<use figures//Interstiziali.png>
+Package pdftex.def Info: figures//Interstiziali.png  used on input line 262.
+(pdftex.def)             Requested size: 293.2521pt x 334.7956pt.
+ [12 <./figures//Vacanze.png> <./figures//Sostituzione.png>]
+<figures//Reticolo Accaio.png, id=80, 356.532pt x 455.301pt>
+File: figures//Reticolo Accaio.png Graphic file (type png)
+<use figures//Reticolo Accaio.png>
+Package pdftex.def Info: figures//Reticolo Accaio.png  used on input line 270.
+(pdftex.def)             Requested size: 258.75pt x 330.45645pt.
+ [13 <./figures//Interstiziali.png>]
+<figures//Rafforzamento per soluzione solida.png, id=85, 620.91975pt x 359.54324pt>
+File: figures//Rafforzamento per soluzione solida.png Graphic file (type png)
+<use figures//Rafforzamento per soluzione solida.png>
+Package pdftex.def Info: figures//Rafforzamento per soluzione solida.png  used on input line 277.
+(pdftex.def)             Requested size: 293.2521pt x 169.80827pt.
+ [14 <./figures//Reticolo Accaio.png>]
+<figures//Disordinato Ordinato.png, id=90, 567.3195pt x 407.72325pt>
+File: figures//Disordinato Ordinato.png Graphic file (type png)
+<use figures//Disordinato Ordinato.png>
+Package pdftex.def Info: figures//Disordinato Ordinato.png  used on input line 287.
+(pdftex.def)             Requested size: 258.75pt x 185.95607pt.
+<figures//Solubilita'.png, id=91, 588.39825pt x 353.52075pt>
+File: figures//Solubilita'.png Graphic file (type png)
+<use figures//Solubilita'.png>
+Package pdftex.def Info: figures//Solubilita'.png  used on input line 297.
+(pdftex.def)             Requested size: 293.2521pt x 176.19353pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--301
+
+ []
+
+[15 <./figures//Rafforzamento per soluzione solida.png> <./figures//Disordinato Ordinato.png>]
+<figures//Tipi di Composti.png, id=97, 617.9085pt x 293.29575pt>
+File: figures//Tipi di Composti.png Graphic file (type png)
+<use figures//Tipi di Composti.png>
+Package pdftex.def Info: figures//Tipi di Composti.png  used on input line 314.
+(pdftex.def)             Requested size: 293.2521pt x 139.1916pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--319
+
+ []
+
+[16 <./figures//Solubilita'.png>] [17 <./figures//Tipi di Composti.png>] (Metallurgia.aux) ) 
+Here is how much of TeX's memory you used:
+ 4177 strings out of 475380
+ 73034 string characters out of 2776300
+ 419313 words of memory out of 3000000
+ 25532 multiletter control sequences out of 15000+600000
+ 474977 words of font info for 48 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,14n,77p,415b,409s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Matteo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Matteo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Matteo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Matteo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Matteo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Matteo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Matteo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Matteo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Matteo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Matteo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Metallurgia.pdf (19 pages, 5340596 bytes).
+PDF statistics:
+ 149 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+
