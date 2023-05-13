@@ -3,16 +3,16 @@
 Repository per tenere il mio lavoro da diverse classi del polimi nel corso di ingegneria meccanica.__
 Gli appunti di metallurgia saranno messi verso la fine dell'anno.__
 
-##Informazione Specifica
+## Informazione Specifica
 
 Alcuni file (le classi del primo anno) sono stati creati usando l'app CollaNote, questi file finiscono con .cnote, questi file si possono solo aprire sull'app di CollaNote.__
 Se il file inizia con "L" e' da una lezione, se inizia con "ES" e' da una esercitazione.
 
-##Scaricare app e muovere tra dispositivi
+## Scaricare app e muovere tra dispositivi
 
 Per muovere i file tra dispositivi con un OS diverso consiglierei usare https://snapdrop.net/, e guardare https://www.youtube.com/watch?v=E8Dx5g08ALM per vedere come usarlo.
 
-##Classi:
+## Classi:
 
 - Primo Anno:
   - Analisi 1: Non ci sono appunti digitali, li ho fatti in carta
