@@ -23,3 +23,5 @@ Per muovere i file tra dispositivi con un OS diverso consiglierei usare https://
   - Analisi 2: Non ci sono appunti digitali, li ho fatti in carta
   - Fondamenti di Fisica Sperimentale: Appunti ffatti in CollaNote
   - Metallurgia e Materiali non Metallici: Appunti in LaTeX, scarica e generare usando un qualsiasi programma di latex dal repositorio https://github.com/MORaHo/Metallurgia.
+
+ - Primo Semestre secondo anno: Usato CollaNote per prendere appunti in classe e Obsidian per riscrivere i miei appunti quando ero a casa, per la mia saluta mentale ad un certo punto ho smesso di mettere le immagini nei file di markdown ma di solito sono in ordine e sono in riferimento a quello che c'e` nel pdf or nelle slide. Professori: Rinaldi, Mauri, Vergani.
