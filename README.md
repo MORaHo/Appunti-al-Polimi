@@ -22,4 +22,4 @@ Per muovere i file tra dispositivi con un OS diverso consiglierei usare https://
   
   - Analisi 2: Non ci sono appunti digitali, li ho fatti in carta
   - Fondamenti di Fisica Sperimentale: Appunti ffatti in CollaNote
-  - Metallurgia e Materiali non Metallici: Appunti in LaTeX, il pdf generato e' collegato, e il file LaTeX per chiunque gli interessa modificarlo. https://github.com/MORaHo/Metallurgia se viene letto prima che lo sposto a questo repository.
+  - Metallurgia e Materiali non Metallici: Appunti in LaTeX, scarica e generare usando un qualsiasi programma di latex dal repositorio https://github.com/MORaHo/Metallurgia.
