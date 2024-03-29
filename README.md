@@ -1,11 +1,10 @@
 # Lavoro al Polimi
 
-Repository per tenere il mio lavoro da diverse classi del polimi nel corso di ingegneria meccanica.__
-Gli appunti di metallurgia saranno messi verso la fine dell'anno.__
+Repository per tenere il mio lavoro da diverse classi del polimi nel corso di ingegneria meccanica.
 
 ## Informazione Specifica
 
-Alcuni file (le classi del primo anno) sono stati creati usando l'app CollaNote, questi file finiscono con .cnote, questi file si possono solo aprire sull'app di CollaNote.__
+Alcuni file (le classi del primo anno) sono stati creati usando l'app CollaNote, questi file finiscono con .cnote, questi file si possono solo aprire sull'app di CollaNote.
 Se il file inizia con "L" e' da una lezione, se inizia con "ES" e' da una esercitazione.
 
 ## Scaricare app e muovere tra dispositivi
