@@ -24,3 +24,15 @@ Per muovere i file tra dispositivi con un OS diverso consiglierei usare https://
   - Metallurgia e Materiali non Metallici: Appunti in LaTeX, scarica e generare usando un qualsiasi programma di latex dal repositorio https://github.com/MORaHo/Metallurgia.
 
  - Primo Semestre secondo anno: Usato CollaNote per prendere appunti in classe (o scoperto che si possono generare pdf quindi ho usato quelli) e Obsidian (programma markdown) per riscrivere i miei appunti quando ero a casa, per la mia saluta mentale ad un certo punto ho smesso di mettere le immagini nei file di markdown ma di solito sono in ordine e sono in riferimento a quello che c'e` nel pdf or nelle slide. Professori: Rinaldi, Mauri, Vergani. Tecnicamente se di prendono le 3 cartelle (Fisica Tecnica, Elettrotecnica e Costruzione) con la cartella Assets e si mettono in un vault di obsidian dovrebbe funzionare, ma non so se funziona al 100%.
+
+## Docenti, Esercitatore
+Analisi 1: Lastaria, Di Libero
+Fondamenti di Chimica: Ganazzoli
+Metodi di Rappresentazione Tecnica: Girotti
+Informatica B: Marchesi, Zamboni(penso)
+Analisi 2: Sianesi, Zaro
+Fondamenti di Fisica Sperimentale: Isella e Chrastina, non mi ricordo
+Metallurgia: Boniardi
+Fisica Tecnica: Rinaldi, Fustinoni
+Elettrotecnica: Mauri, Rossi
+Costruzione di Macchine: Vergani, Lucio Pinello
