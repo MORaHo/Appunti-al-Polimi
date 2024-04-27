@@ -29,7 +29,7 @@ Per muovere i file tra dispositivi con un OS diverso consiglierei usare https://
 - Analisi 1: Lastaria, Di Libero
 - Fondamenti di Chimica: Ganazzoli
 - Metodi di Rappresentazione Tecnica: Girotti
-- Informatica B: Marchesi, Zamboni(penso)
+- Informatica B: Marchesi, Zamboni
 - Analisi 2: Sianesi, Zaro
 - Fondamenti di Fisica Sperimentale: Isella e Chrastina, non mi ricordo
 - Metallurgia: Boniardi
