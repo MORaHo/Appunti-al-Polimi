@@ -36,3 +36,6 @@ Per muovere i file tra dispositivi con un OS diverso consiglierei usare https://
 - Fisica Tecnica: Rinaldi, Fustinoni
 - Elettrotecnica: Mauri, Rossi
 - Costruzione di Macchine: Vergani, Lucio Pinello
+- Meccanica Applicata alle Macchine: Collina, Tanzi, Reato
+- Tecnologia Meccanica: Previtali, Caprio
+- Misure Meccaniche e Termiche: Zappa, Paganoni
