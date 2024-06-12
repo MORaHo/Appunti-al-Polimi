@@ -7,10 +7,6 @@ Repository per tenere il mio lavoro da diverse classi del polimi nel corso di in
 Alcuni file (le classi del primo anno) sono stati creati usando l'app CollaNote, questi file finiscono con .cnote, questi file si possono solo aprire sull'app di CollaNote.
 Se il file inizia con "L" e' da una lezione, se inizia con "ES" e' da una esercitazione.
 
-## Scaricare app e muovere tra dispositivi
-
-Per muovere i file tra dispositivi con un OS diverso consiglierei usare https://snapdrop.net/, e guardare https://www.youtube.com/watch?v=E8Dx5g08ALM per vedere come usarlo.
-
 ## Classi:
 
 - Primo Anno:
