@@ -1,6 +1,6 @@
 # Lavoro al Polimi
 
-Repository per tenere il mio lavoro da diverse classi del polimi nel corso di ingegneria meccanica.
+Appunti da diverse classi sostenute al PoliMi nel corso di ingegneria meccanica. Per ingegneria aerospaziale consiglio gli appunti del mio compagno: https://drive.google.com/drive/folders/1kpgXqFfJduJCPh4suCX2yktGYBMWsTU7
 
 ## Informazione Specifica
 
