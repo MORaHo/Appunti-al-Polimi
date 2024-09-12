@@ -35,7 +35,7 @@ Se il file inizia con "L" e' da una lezione, se inizia con "ES" e' da una eserci
 ### Secondo Anno
 - Fisica Tecnica: Rinaldi, Fustinoni
 - Elettrotecnica: Mauri, Rossi
-- Costruzione di Macchine: Vergani, Lucio Pinello
+- Costruzione di Macchine: Vergani, Pinello
 - Meccanica Applicata alle Macchine: Collina, Tanzi, Reato
 - Tecnologia Meccanica: Previtali, Caprio
 - Misure Meccaniche e Termiche: Zappa, Paganoni
