@@ -1,4 +1,4 @@
-# Lavoro al Polimi
+# Appunti al PoliMi
 
 Appunti da diverse classi sostenute al PoliMi nel corso di ingegneria meccanica.
 
