@@ -23,7 +23,7 @@ Se il file inizia con "L" e' da una lezione, se inizia con "ES" e' da una eserci
 
  - Secondo Anno (Secondo Semestre): Stesso del primo semestre. L'unica differenza e` che non ho messo immagini da inizio a fine perche' usavano tutti le slide e' non riuscivo a tenermi a passo se passavo tempo a mettere le immagini. Per MAAM non ho riscritto le ultime 3 lezioni con i sistemi di meccanismi, per misure ho finito tutto e per tecnologia mi sono ammalato e ho avuto la febbre a 39 nelle ultime 2 settimane quindi ho deciso di lascar stare e tenermi a passo con gli altri due.
 
-## Docenti, Esercitatori
+## Docenti & Esercitatori
 ### Primo Anno
 - Analisi 1: Lastaria, Di Libero
 - Fondamenti di Chimica: Ganazzoli
