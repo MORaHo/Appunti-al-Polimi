@@ -43,4 +43,5 @@ Se il file inizia con "L" e' da una lezione, se inizia con "ES" e' da una eserci
 ## Formulari
 
 Ho messo il formulario per ogni classe per cui ne ho creato uno nella propria cartella, se si vuole scaricarli tutti in uno li ho messi anche qui: https://github.com/MORaHo/Formulari.
+
 L'uso dei formulari durante gli esami e` illegale tranne se il formulario e' provveduto dal professore (tecnologia meccanica), io sono uno studente DSA quindi ho un ausilio che mi permette il suo uso per questo li ho creati, se non si e' DSA non usateli durante gli esame solo per lo studio, se lo usate durante l'esame e andate nei guai e' colpa vostra non mia.
