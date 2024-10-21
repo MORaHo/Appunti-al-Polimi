@@ -17,7 +17,7 @@ Se il file inizia con "L" e' da una lezione, se inizia con "ES" e' da una eserci
   
   - Analisi 2: Non ci sono appunti digitali, li ho fatti in carta
   - Fondamenti di Fisica Sperimentale: Appunti fatti in CollaNote
-  - Metallurgia e Materiali non Metallici: Appunti in LaTeX, scarica e generare usando un qualsiasi programma di latex dal repositorio https://github.com/MORaHo/Metallurgia. Ho avuto la tonsillite resistente agli antibiotici quindi son rimasto indietro.
+  - Metallurgia e Materiali non Metallici: Appunti in LaTeX, si puo` legge il pdf, se si vuole cambiare qualcosa si puo' fare con il file .tex basta che scarichi anche tutte le foto. Sono stato ammallato per un mese quindi non sono riuscito a recuperare completamente per questo la ultima lezione copre la nomenclatura anche effettivamente ci sarebbero altre lezioni.
 
  - Primo Semestre secondo anno: Usato CollaNote per prendere appunti in classe (ho scoperto che si possono generare pdf quindi ho usato quelli) e Obsidian (programma per la modifice di file markdown) per riscrivere i miei appunti quando ero a casa, per la mia salute mentale ad un certo punto ho smesso di mettere le immagini nei file di markdown ma di solito sono in ordine e sono in riferimento a quello che c'e` nel pdf o nelle slide. Tecnicamente se di prendono le 3 cartelle (Fisica Tecnica, Elettrotecnica e Costruzione) con la cartella Assets e si mettono in un vault di obsidian dovrebbe funzionare, ma non so se funziona al 100%.
 
