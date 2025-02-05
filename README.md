@@ -39,6 +39,12 @@ Se il file inizia con "L" e' da una lezione, se inizia con "ES" e' da una eserci
 - Meccanica Applicata alle Macchine: Collina, Tanzi, Reato
 - Tecnologia Meccanica: Previtali, Caprio
 - Misure Meccaniche e Termiche: Zappa, Paganoni
+### Terzo Anno
+- Meccanica dei Fluidi: Radice, Rrokaj
+- Metodi Analitici e Numerici per Ingegneria: Perotto, Ferro, Temellini
+- Metodi di Calcolo delle Strutture: Foti, Corazza
+- Impianti di Produzione e Organizzazione d'Impresa: Neri e Barruffaldi e Montanaro
+
 
 ## Formulari
 
