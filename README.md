@@ -34,7 +34,7 @@ Se il file inizia con "L" e' da una lezione, se inizia con "ES" e' da una eserci
 - Metallurgia: Boniardi
 ### Secondo Anno
 - Fisica Tecnica: Rinaldi, Fustinoni
-- Elettrotecnica: Mauri, Rossi
+- Principi di Ingegneria Elettrica: Mauri, Rossi
 - Costruzione di Macchine: Vergani, Pinello
 - Meccanica Applicata alle Macchine: Collina, Tanzi, Reato
 - Tecnologia Meccanica: Previtali, Caprio
@@ -44,6 +44,15 @@ Se il file inizia con "L" e' da una lezione, se inizia con "ES" e' da una eserci
 - Metodi Analitici e Numerici per Ingegneria: Perotto, Ferro, Temellini
 - Metodi di Calcolo delle Strutture: Foti, Corazza
 - Impianti di Produzione e Organizzazione d'Impresa: Neri e Barruffaldi e Montanaro
+- Fluid Machines: Persico, Kamali
+- Statistics: Guglielmi, De Sanctis
+- Mechanical Design Laboratory A: Cascini, Morosi
+- Mechanical Design Laboratory B: Carboni
+- Mechanics of Vibrations: Belloli, Dassi
+### Progetto di Laurea
+- Colombo
+- Rossoni
+- Pietroni
 
 
 ## Formulari
