@@ -23,6 +23,8 @@ Se il file inizia con "L" e' da una lezione, se inizia con "ES" e' da una eserci
 
  - Secondo Anno (Secondo Semestre): Stesso del primo semestre. L'unica differenza e` che non ho messo immagini dall'inizio perche' usavano tutti le slide e' non riuscivo a tenermi a passo se passavo tempo a mettere le immagini. Per MAAM non ho riscritto le ultime 3 lezioni con i sistemi di meccanismi che importano solo per l'orale, per misure ho finito tutto e per tecnologia mi sono ammalato e ho avuto la febbre a 39 nelle ultime 2 settimane quindi ho deciso di lascar stare e tenermi a passo con gli altri due.
 
+ - Terzo anno: Tutte le classi sono state interessanti, anche se uno o due dei professori potevano esser migliori. Il mio metodo di studio ha raggiunto il limite di efficienza in quest'anno, e non penso di esser riuscito a riscrivere tutti gli appunti per tutte le classi, detto questo tutti gli appunti i mano li ho scritti al meglio che potessi. Ho fatto il progetto di laurea con i miei amici che e` stato molto interessante e divertente.
+
 ## Docenti & Esercitatori
 ### Primo Anno
 - Analisi 1: Lastaria, Di Libero
