@@ -7,7 +7,7 @@ Per ingegneria aerospaziale consiglio gli appunti del mio compagno del primo ann
 Alcuni file (le classi del primo anno) sono stati creati usando l'app CollaNote, questi file finiscono con .cnote, questi file si possono solo aprire sull'app di CollaNote.
 Se il file inizia con "L" e' da una lezione, se inizia con "ES" e' da una esercitazione.
 
-## Classi
+## Corsi
 
 - Primo Anno:
   - Analisi 1: Non ci sono appunti digitali, li ho fatti in carta
